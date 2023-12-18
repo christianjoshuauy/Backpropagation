@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Backprop\Backprop\bin\Debug\Backprop.exe.config
+C:\Users\Christian\source\repos\Backprop\Backprop\bin\Debug\Backprop.exe
+C:\Users\Christian\source\repos\Backprop\Backprop\bin\Debug\Backprop.pdb
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.Form1.resources
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.Properties.Resources.resources
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.exe
+C:\Users\Christian\source\repos\Backprop\Backprop\obj\Debug\Backprop.pdb
