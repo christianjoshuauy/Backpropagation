@@ -20,13 +20,13 @@ namespace Backprop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            nn = new NeuralNet(4, 63, 1);
+            nn = new NeuralNet(4, 62, 1);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
 
-            for (int x = 0; x < 110; x++)
+            for (int x = 0; x < 880; x++)
             {
                 for (int i = 0; i < 2; i++)
                     for (int j = 0; j < 2; j++)
